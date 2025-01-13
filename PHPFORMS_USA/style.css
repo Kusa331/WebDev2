@@ -1,0 +1,15 @@
+body{
+    background-color: aliceblue;
+}
+form{
+    margin-left: 25vw;
+    margin-right: 25vw;
+    margin-top: 35vh;
+    max-width: 50vw;
+    background-color: rgb(175, 198, 219);
+    padding-left: 3vw;
+    padding-right: 3vw;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
